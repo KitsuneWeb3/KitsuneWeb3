@@ -11,29 +11,26 @@ all EVM-compatible chains.
 
 ---
 
-## 🔧 What I Offer
+## 🛠️ What I Offer
 
 - 🚀 **Full Token Launch Systems**  
-  ERC20 + Presale + Claim Logic + Vesting + Verification
+  ERC20 + Presale + Claim Logic + Vesting + Verification + Frontend UI
 
-- 🪙 **Advanced ERC20 Contracts**  
-  Mint / Burn / Pause / Owner Control / Whitelist & Blacklist
-
-- 📦 **Custom Wallet Tracker Bots**  
-  Real-time Telegram alerts for wallet txs across all chains
+- 🌐 **Advanced ERC20 + DApp Frontends**  
+  Mint / Burn / Pause / Owner Control / Whitelist & Blacklist  
+  + Web3 Dashboards (React + Ethers.js)
 
 - 📈 **On-Chain Utilities**  
-  Airdrops, Staking (Fixed or Flexible APR), Referral Logic, Anti-Bot 
-Systems
+  Airdrops, Staking (Fixed or Flexible APR), Referral Logic, Anti-Bot Systems
 
 ---
+## 🧰 Tech Stack
 
-## 🛠 Tech Stack
-
-- Solidity, Node.js, Ethers.js  
+- Solidity, Node.js, Ethers.js, React (Functional Components)
 - Remix, Hardhat, Foundry  
+- Web3 UI / Metamask Integration  
 - BscScan / Etherscan Verification  
-- GitHub Actions, Telegram Bot API  
+- GitHub Actions
 
 ---
 
